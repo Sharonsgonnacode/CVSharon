@@ -1,11 +1,12 @@
 
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 <title>htmlSB1</title>
 
 <link rel = "stylesheet" type = "text/css" href = "cssSB1.css">
 <h1 style = "text-align: center; font-color: purple">Sharon's Curriculum Vitae.</h1>
-<body style = "background-color: pink"></body>
+<body>
+<body style = "background-color: pink">
 
 <p style = "background-color: light purple; text-align: right"><br>Burscough<br>Ormskirk<br>Lancashire<br>.</p>
 <p style = "text-align: left">Tel. 01704 892327<br>Mob. 07<br>Email. sharonbarrett@live.co.uk</a>
